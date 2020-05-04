@@ -1,1 +1,1 @@
-# Gist-Algorithmus-Study
+# Gist-Algorithm-Study
